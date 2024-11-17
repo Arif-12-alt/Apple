@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  .row h3 {
+    text-align: center;
+  }
+
+  .row li {
+    list-style: none;
+    text-align: center;
+  }
+
+  .a3 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+  }
+
+  .card {
+    border: 2px solid black;
+    box-shadow: 8px 6px 8px 4px;
+  }
+
+  .col-12 img {
+    margin: 10px;
+  }
